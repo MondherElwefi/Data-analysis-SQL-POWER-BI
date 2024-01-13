@@ -5,6 +5,7 @@ Hotel  Dashboard  to answer these question :
   2/ should we increase our parking lot size ? 
   3/ what trends can see in the data ? 
 
+
 🏨About the project :
 
  1. Build a Database 🛠️
