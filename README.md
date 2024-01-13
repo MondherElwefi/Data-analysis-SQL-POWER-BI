@@ -1,9 +1,8 @@
+🏨 Data Analysis Portfolio Project to answer these question🌍:
 
-🏨 Data Analysis Portfolio Project 🌍
-Hotel  Dashboard  to answer these question : 
-  1/ is our hotel revenue growing by year ? 
-  2/ should we increase our parking lot size ? 
-  3/ what trends can see in the data ? 
+ 1. is our hotel revenue growing by year ? 🛠️
+ 2. should we increase our parking lot size ?  📈
+ 3. what trends can see in the data ? 🔗
 
 
 🏨About the project :
